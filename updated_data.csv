@@ -1,0 +1,1001 @@
+office_location,event_month,days_duration,group_size,budget_person_day,hotel_id,event_location,nps_label,total_budget,prefixed_hotel_id
+New York,6,7,32,283,2,Niagara,5,63392,Niagara_2
+New York,7,14,76,203,1,Niagara,4,215992,Niagara_1
+New York,9,14,62,229,4,Niagara,8,198772,Niagara_4
+Toronto,9,5,59,252,1,Cancun,5,74340,Cancun_1
+Toronto,9,7,63,231,1,Cancun,6,101871,Cancun_1
+Vancouver,9,7,58,257,5,Paris,5,104342,Paris_5
+Vancouver,9,3,50,344,3,Cancun,7,51600,Cancun_3
+Toronto,9,14,38,350,4,Paris,9,186200,Paris_4
+Vancouver,2,18,69,287,2,Cancun,5,356454,Cancun_2
+New York,8,3,36,385,2,Niagara,9,41580,Niagara_2
+Vancouver,7,14,32,336,4,Paris,7,150528,Paris_4
+Toronto,7,3,48,203,4,Niagara,6,29232,Niagara_4
+Vancouver,8,14,40,344,5,Cancun,5,192640,Cancun_5
+Toronto,7,7,55,278,5,Cancun,9,107030,Cancun_5
+New York,7,3,39,441,5,Cancun,9,51597,Cancun_5
+New York,8,4,37,264,3,Cancun,10,39072,Cancun_3
+New York,8,7,53,380,3,Niagara,10,140980,Niagara_3
+Vancouver,9,14,50,257,5,Paris,7,179900,Paris_5
+Vancouver,1,14,41,265,2,Niagara,7,152110,Niagara_2
+Vancouver,8,14,52,314,3,Cancun,9,228592,Cancun_3
+Vancouver,7,19,42,243,2,Niagara,8,193914,Niagara_2
+Toronto,7,7,42,378,2,Paris,8,111132,Paris_2
+Vancouver,10,7,63,489,3,Paris,9,215649,Paris_3
+New York,7,3,37,356,4,Paris,9,39516,Paris_4
+Vancouver,7,3,43,248,3,Cancun,9,31992,Cancun_3
+New York,9,7,47,279,4,Niagara,10,91791,Niagara_4
+Vancouver,8,14,22,239,1,Cancun,9,73612,Cancun_1
+New York,9,15,34,210,4,Paris,8,107100,Paris_4
+New York,7,2,34,405,2,Cancun,9,27540,Cancun_2
+San Francisco,7,17,61,226,2,Niagara,8,234362,Niagara_2
+Toronto,7,14,52,220,1,Paris,10,160160,Paris_1
+Vancouver,9,7,64,324,1,Niagara,7,145152,Niagara_1
+New York,1,14,35,263,1,Cancun,7,128870,Cancun_1
+Vancouver,8,14,60,232,3,Niagara,10,194880,Niagara_3
+Vancouver,7,14,19,370,3,Niagara,10,98420,Niagara_3
+San Francisco,9,3,58,206,5,Cancun,7,35844,Cancun_5
+Toronto,8,16,51,245,3,Paris,6,199920,Paris_3
+New York,7,18,40,258,5,Cancun,9,185760,Cancun_5
+Vancouver,8,3,52,227,1,Cancun,9,35412,Cancun_1
+Vancouver,8,3,29,416,2,Paris,10,36192,Paris_2
+Vancouver,1,7,44,466,1,Cancun,6,143528,Cancun_1
+San Francisco,9,3,62,350,2,Paris,9,65100,Paris_2
+Toronto,7,3,45,465,2,Niagara,8,62775,Niagara_2
+New York,8,14,27,200,2,Paris,8,75600,Paris_2
+Toronto,11,6,46,312,3,Niagara,6,86112,Niagara_3
+San Francisco,10,3,38,407,2,Paris,7,46398,Paris_2
+Vancouver,1,3,22,311,4,Niagara,5,20526,Niagara_4
+Vancouver,8,20,35,220,3,Cancun,8,154000,Cancun_3
+New York,7,3,37,246,4,Niagara,8,27306,Niagara_4
+New York,11,14,49,233,4,Niagara,6,159838,Niagara_4
+Toronto,11,10,50,329,3,Cancun,4,164500,Cancun_3
+Toronto,9,14,48,230,2,Niagara,7,154560,Niagara_2
+New York,8,7,33,286,2,Cancun,7,66066,Cancun_2
+New York,8,20,16,225,3,Paris,10,72000,Paris_3
+San Francisco,4,7,56,262,3,Cancun,7,102704,Cancun_3
+San Francisco,7,7,65,309,2,Paris,9,140595,Paris_2
+Toronto,8,3,70,290,5,Paris,9,60900,Paris_5
+San Francisco,9,3,47,231,4,Niagara,10,32571,Niagara_4
+Toronto,8,3,81,260,2,Cancun,9,63180,Cancun_2
+Toronto,7,14,57,230,3,Niagara,8,183540,Niagara_3
+Toronto,7,12,44,298,4,Niagara,10,157344,Niagara_4
+San Francisco,9,17,57,400,3,Niagara,10,387600,Niagara_3
+Toronto,12,3,64,233,3,Paris,4,44736,Paris_3
+Toronto,8,7,54,255,4,Paris,8,96390,Paris_4
+San Francisco,7,1,48,264,3,Niagara,8,12672,Niagara_3
+Vancouver,9,2,39,262,5,Cancun,9,20436,Cancun_5
+Vancouver,9,7,59,240,4,Paris,7,99120,Paris_4
+Vancouver,8,7,73,334,5,Niagara,10,170674,Niagara_5
+New York,6,14,59,428,3,Cancun,7,353528,Cancun_3
+New York,8,7,64,315,3,Paris,7,141120,Paris_3
+New York,6,20,20,275,5,Paris,4,110000,Paris_5
+New York,7,7,50,512,5,Paris,9,179200,Paris_5
+Toronto,8,7,63,255,1,Paris,8,112455,Paris_1
+New York,8,19,59,243,2,Paris,8,272403,Paris_2
+San Francisco,7,14,50,355,4,Cancun,5,248500,Cancun_4
+New York,9,7,76,240,4,Niagara,6,127680,Niagara_4
+San Francisco,1,17,42,219,3,Niagara,6,156366,Niagara_3
+San Francisco,4,4,43,319,1,Cancun,4,54868,Cancun_1
+Toronto,10,5,38,279,5,Paris,4,53010,Paris_5
+Toronto,8,3,72,404,3,Cancun,10,87264,Cancun_3
+New York,8,3,41,243,5,Niagara,6,29889,Niagara_5
+Vancouver,11,7,38,336,4,Cancun,4,89376,Cancun_4
+Toronto,2,14,33,275,3,Paris,6,127050,Paris_3
+Toronto,9,4,75,293,5,Niagara,5,87900,Niagara_5
+Vancouver,8,3,38,313,2,Paris,8,35682,Paris_2
+Toronto,11,15,45,377,1,Niagara,7,254475,Niagara_1
+New York,7,3,24,252,2,Niagara,8,18144,Niagara_2
+Vancouver,6,7,47,273,1,Niagara,3,89817,Niagara_1
+Toronto,9,14,33,308,3,Paris,8,142296,Paris_3
+Vancouver,7,16,29,424,1,Niagara,6,196736,Niagara_1
+San Francisco,8,7,42,390,3,Paris,9,114660,Paris_3
+New York,8,7,57,420,1,Cancun,8,167580,Cancun_1
+San Francisco,9,15,32,280,3,Paris,8,134400,Paris_3
+San Francisco,9,7,29,261,4,Niagara,8,52983,Niagara_4
+San Francisco,8,13,40,277,1,Niagara,7,144040,Niagara_1
+Vancouver,7,11,60,311,3,Paris,10,205260,Paris_3
+New York,8,7,37,388,5,Niagara,9,100492,Niagara_5
+Toronto,9,4,34,361,2,Cancun,9,49096,Cancun_2
+San Francisco,7,15,62,356,3,Niagara,10,331080,Niagara_3
+Toronto,8,14,30,302,2,Niagara,9,126840,Niagara_2
+Vancouver,8,14,48,295,1,Niagara,6,198240,Niagara_1
+Toronto,7,7,62,282,2,Cancun,9,122388,Cancun_2
+San Francisco,8,7,47,281,1,Niagara,5,92449,Niagara_1
+Vancouver,12,3,53,351,2,Niagara,5,55809,Niagara_2
+San Francisco,4,14,27,316,3,Cancun,6,119448,Cancun_3
+Toronto,9,3,23,250,3,Niagara,6,17250,Niagara_3
+San Francisco,7,14,83,337,4,Paris,9,391594,Paris_4
+Vancouver,9,3,39,226,3,Cancun,7,26442,Cancun_3
+San Francisco,7,10,58,318,2,Paris,8,184440,Paris_2
+Vancouver,8,7,66,514,2,Paris,9,237468,Paris_2
+San Francisco,7,14,69,258,4,Niagara,8,249228,Niagara_4
+San Francisco,9,7,55,247,3,Cancun,7,95095,Cancun_3
+Vancouver,6,12,30,398,5,Niagara,8,143280,Niagara_5
+Vancouver,9,3,46,309,5,Cancun,10,42642,Cancun_5
+Vancouver,7,20,52,266,3,Cancun,9,276640,Cancun_3
+Toronto,7,3,60,270,5,Paris,6,48600,Paris_5
+San Francisco,8,11,55,337,4,Paris,9,203885,Paris_4
+Toronto,9,7,69,263,5,Paris,5,127029,Paris_5
+San Francisco,8,9,65,289,2,Niagara,6,169065,Niagara_2
+New York,7,5,39,346,1,Paris,8,67470,Paris_1
+Vancouver,9,3,65,270,1,Niagara,10,52650,Niagara_1
+New York,7,14,33,381,5,Paris,6,176022,Paris_5
+Toronto,7,14,36,289,1,Niagara,6,145656,Niagara_1
+San Francisco,3,7,52,240,3,Niagara,7,87360,Niagara_3
+Vancouver,7,3,67,205,1,Niagara,3,41205,Niagara_1
+Toronto,9,3,45,211,2,Cancun,8,28485,Cancun_2
+San Francisco,7,16,35,218,1,Niagara,5,122080,Niagara_1
+San Francisco,7,7,56,348,3,Niagara,10,136416,Niagara_3
+Toronto,6,3,31,323,2,Paris,6,30039,Paris_2
+San Francisco,9,14,34,330,2,Cancun,7,157080,Cancun_2
+San Francisco,7,7,67,297,3,Paris,7,139293,Paris_3
+San Francisco,8,14,47,226,4,Cancun,5,148708,Cancun_4
+New York,9,20,59,247,2,Cancun,8,291460,Cancun_2
+New York,9,7,72,318,5,Cancun,6,160272,Cancun_5
+San Francisco,4,14,64,248,5,Paris,4,222208,Paris_5
+San Francisco,7,5,37,320,4,Paris,7,59200,Paris_4
+Vancouver,8,4,47,255,2,Niagara,6,47940,Niagara_2
+New York,7,3,66,252,4,Niagara,8,49896,Niagara_4
+New York,1,14,54,219,1,Paris,7,165564,Paris_1
+San Francisco,8,3,60,290,1,Cancun,6,52200,Cancun_1
+San Francisco,8,7,70,223,4,Paris,7,109270,Paris_4
+New York,7,7,55,343,4,Cancun,6,132055,Cancun_4
+San Francisco,7,14,54,218,1,Paris,9,164808,Paris_1
+San Francisco,10,19,51,223,3,Paris,4,216087,Paris_3
+Vancouver,7,7,39,333,3,Niagara,10,90909,Niagara_3
+San Francisco,10,3,82,471,1,Niagara,5,115866,Niagara_1
+San Francisco,8,14,50,412,2,Paris,10,288400,Paris_2
+San Francisco,7,3,43,332,3,Niagara,9,42828,Niagara_3
+San Francisco,9,14,57,329,4,Paris,8,262542,Paris_4
+New York,10,7,48,318,5,Paris,2,106848,Paris_5
+New York,9,14,87,242,5,Niagara,8,294756,Niagara_5
+Vancouver,8,14,71,281,3,Niagara,8,279314,Niagara_3
+San Francisco,9,7,20,202,2,Paris,4,28280,Paris_2
+New York,9,7,45,353,1,Cancun,10,111195,Cancun_1
+New York,9,14,35,240,4,Paris,5,117600,Paris_4
+Vancouver,8,7,57,256,1,Niagara,5,102144,Niagara_1
+Vancouver,9,7,36,246,5,Cancun,8,61992,Cancun_5
+New York,8,14,70,362,2,Paris,10,354760,Paris_2
+San Francisco,9,14,37,245,1,Paris,8,126910,Paris_1
+Vancouver,3,10,41,343,5,Paris,4,140630,Paris_5
+New York,8,14,38,330,5,Cancun,7,175560,Cancun_5
+New York,7,14,31,349,5,Niagara,5,151466,Niagara_5
+New York,9,14,45,217,2,Cancun,10,136710,Cancun_2
+Toronto,7,3,40,417,1,Cancun,7,50040,Cancun_1
+Vancouver,7,3,35,204,2,Niagara,7,21420,Niagara_2
+Vancouver,7,7,69,282,5,Cancun,7,136206,Cancun_5
+Toronto,7,7,70,211,2,Cancun,8,103390,Cancun_2
+New York,7,7,21,207,3,Niagara,9,30429,Niagara_3
+New York,8,5,32,367,5,Paris,9,58720,Paris_5
+San Francisco,9,7,44,316,4,Niagara,7,97328,Niagara_4
+Vancouver,8,7,37,254,2,Cancun,6,65786,Cancun_2
+Vancouver,9,3,18,228,4,Niagara,8,12312,Niagara_4
+Vancouver,9,10,34,356,4,Niagara,10,121040,Niagara_4
+San Francisco,12,7,73,335,5,Paris,2,171185,Paris_5
+Toronto,8,9,73,214,4,Cancun,7,140598,Cancun_4
+Toronto,8,3,27,374,2,Paris,8,30294,Paris_2
+Toronto,8,14,41,238,5,Niagara,9,136612,Niagara_5
+New York,7,12,58,244,1,Niagara,7,169824,Niagara_1
+New York,9,3,43,301,4,Cancun,6,38829,Cancun_4
+San Francisco,5,14,79,335,1,Cancun,7,370510,Cancun_1
+New York,9,14,37,275,5,Paris,5,142450,Paris_5
+San Francisco,8,5,61,222,3,Niagara,8,67710,Niagara_3
+Vancouver,7,3,70,266,5,Cancun,5,55860,Cancun_5
+Toronto,9,3,34,260,5,Paris,6,26520,Paris_5
+San Francisco,9,3,51,205,4,Cancun,8,31365,Cancun_4
+New York,8,14,56,370,2,Paris,10,290080,Paris_2
+Toronto,7,11,65,225,2,Cancun,8,160875,Cancun_2
+New York,9,14,65,234,3,Niagara,7,212940,Niagara_3
+Vancouver,9,3,59,271,4,Paris,8,47967,Paris_4
+San Francisco,7,14,37,466,2,Niagara,7,241388,Niagara_2
+San Francisco,7,14,50,339,3,Paris,7,237300,Paris_3
+New York,7,14,47,341,4,Cancun,10,224378,Cancun_4
+Toronto,9,3,58,252,4,Niagara,9,43848,Niagara_4
+Vancouver,8,3,30,220,3,Cancun,7,19800,Cancun_3
+Toronto,7,7,54,262,1,Niagara,4,99036,Niagara_1
+Toronto,8,7,31,287,4,Cancun,5,62279,Cancun_4
+Vancouver,8,14,50,238,5,Cancun,9,166600,Cancun_5
+New York,2,7,46,205,5,Cancun,5,66010,Cancun_5
+Vancouver,8,14,35,318,5,Cancun,7,155820,Cancun_5
+New York,9,7,37,224,4,Paris,6,58016,Paris_4
+New York,3,7,59,256,2,Cancun,6,105728,Cancun_2
+Vancouver,9,14,26,407,2,Paris,9,148148,Paris_2
+New York,9,3,79,294,3,Paris,10,69678,Paris_3
+Toronto,10,14,32,382,2,Niagara,4,171136,Niagara_2
+San Francisco,8,14,61,425,5,Paris,6,362950,Paris_5
+New York,8,14,53,232,3,Cancun,10,172144,Cancun_3
+San Francisco,8,14,54,262,3,Niagara,10,198072,Niagara_3
+San Francisco,8,7,37,322,5,Niagara,8,83398,Niagara_5
+Toronto,7,3,51,235,5,Niagara,8,35955,Niagara_5
+Toronto,10,14,71,235,5,Niagara,5,233590,Niagara_5
+Toronto,2,7,77,208,3,Cancun,8,112112,Cancun_3
+San Francisco,8,3,65,262,1,Cancun,8,51090,Cancun_1
+San Francisco,9,3,91,272,2,Paris,7,74256,Paris_2
+Toronto,8,7,70,263,3,Cancun,7,128870,Cancun_3
+New York,7,14,80,213,5,Paris,8,238560,Paris_5
+Toronto,9,1,50,325,2,Cancun,8,16250,Cancun_2
+Toronto,7,3,58,426,4,Cancun,8,74124,Cancun_4
+Vancouver,9,8,51,209,4,Cancun,5,85272,Cancun_4
+Vancouver,7,20,57,256,3,Cancun,8,291840,Cancun_3
+New York,9,14,73,240,4,Cancun,5,245280,Cancun_4
+San Francisco,8,10,57,253,1,Paris,7,144210,Paris_1
+New York,3,14,59,218,2,Paris,7,180068,Paris_2
+Toronto,8,14,47,216,1,Cancun,7,142128,Cancun_1
+New York,9,3,52,249,3,Paris,6,38844,Paris_3
+New York,7,14,57,301,2,Paris,7,240198,Paris_2
+New York,9,3,51,302,5,Cancun,5,46206,Cancun_5
+Toronto,9,3,10,402,3,Niagara,7,12060,Niagara_3
+Vancouver,8,3,62,273,3,Cancun,10,50778,Cancun_3
+New York,3,8,50,222,4,Niagara,7,88800,Niagara_4
+New York,8,7,39,214,5,Paris,5,58422,Paris_5
+Toronto,7,7,54,440,5,Cancun,10,166320,Cancun_5
+San Francisco,8,12,69,234,5,Niagara,5,193752,Niagara_5
+Vancouver,7,14,47,274,3,Paris,7,180292,Paris_3
+San Francisco,3,17,53,208,3,Cancun,7,187408,Cancun_3
+Toronto,4,2,39,309,2,Niagara,7,24102,Niagara_2
+New York,8,14,64,412,5,Cancun,8,369152,Cancun_5
+Toronto,9,3,48,321,4,Paris,9,46224,Paris_4
+Vancouver,4,14,34,394,3,Paris,7,187544,Paris_3
+San Francisco,7,3,11,347,5,Niagara,10,11451,Niagara_5
+New York,7,7,62,236,4,Niagara,10,102424,Niagara_4
+New York,8,14,46,297,4,Niagara,10,191268,Niagara_4
+New York,9,8,52,531,5,Niagara,9,220896,Niagara_5
+Toronto,7,14,72,204,1,Niagara,5,205632,Niagara_1
+San Francisco,9,14,46,398,2,Cancun,8,256312,Cancun_2
+New York,9,7,54,219,1,Paris,7,82782,Paris_1
+San Francisco,8,7,65,366,4,Paris,6,166530,Paris_4
+New York,5,14,60,407,3,Niagara,8,341880,Niagara_3
+San Francisco,8,1,46,221,4,Paris,5,10166,Paris_4
+San Francisco,9,3,55,301,3,Cancun,9,49665,Cancun_3
+Toronto,9,14,59,299,1,Paris,10,246974,Paris_1
+San Francisco,9,14,33,254,2,Niagara,6,117348,Niagara_2
+Toronto,7,18,39,451,4,Niagara,10,316602,Niagara_4
+San Francisco,5,7,67,317,5,Paris,4,148673,Paris_5
+New York,8,7,73,226,3,Paris,6,115486,Paris_3
+Toronto,9,8,27,278,1,Niagara,4,60048,Niagara_1
+San Francisco,9,6,40,271,3,Paris,6,65040,Paris_3
+New York,2,7,52,425,1,Cancun,8,154700,Cancun_1
+Toronto,7,3,43,295,4,Cancun,5,38055,Cancun_4
+Vancouver,9,15,81,235,4,Cancun,6,285525,Cancun_4
+San Francisco,9,14,51,243,1,Paris,8,173502,Paris_1
+Vancouver,9,14,61,405,4,Cancun,8,345870,Cancun_4
+Vancouver,7,4,65,366,3,Paris,9,95160,Paris_3
+San Francisco,7,7,53,229,2,Paris,7,84959,Paris_2
+San Francisco,8,14,38,347,2,Paris,10,184604,Paris_2
+Toronto,8,3,53,204,3,Paris,6,32436,Paris_3
+Toronto,8,3,43,311,3,Niagara,7,40119,Niagara_3
+Toronto,10,7,63,404,1,Niagara,3,178164,Niagara_1
+Vancouver,8,13,52,418,2,Cancun,10,282568,Cancun_2
+Vancouver,9,3,40,333,1,Paris,9,39960,Paris_1
+New York,4,5,30,388,5,Niagara,8,58200,Niagara_5
+San Francisco,7,7,61,252,4,Cancun,9,107604,Cancun_4
+Toronto,9,3,57,339,2,Niagara,6,57969,Niagara_2
+Vancouver,7,14,67,342,1,Niagara,8,320796,Niagara_1
+Vancouver,7,7,91,404,5,Paris,8,257348,Paris_5
+Toronto,7,3,75,413,1,Niagara,5,92925,Niagara_1
+San Francisco,9,3,32,209,1,Niagara,6,20064,Niagara_1
+San Francisco,7,3,39,289,4,Niagara,9,33813,Niagara_4
+San Francisco,8,13,27,276,1,Niagara,6,96876,Niagara_1
+Vancouver,8,3,63,361,5,Cancun,7,68229,Cancun_5
+Vancouver,6,7,32,378,5,Niagara,5,84672,Niagara_5
+Toronto,8,3,57,421,1,Niagara,4,71991,Niagara_1
+New York,8,3,44,333,2,Cancun,8,43956,Cancun_2
+New York,8,14,55,299,2,Cancun,10,230230,Cancun_2
+New York,8,7,37,308,5,Paris,7,79772,Paris_5
+Vancouver,8,3,61,268,2,Paris,6,49044,Paris_2
+Vancouver,9,7,86,250,1,Paris,8,150500,Paris_1
+New York,8,14,40,467,3,Niagara,9,261520,Niagara_3
+New York,8,4,49,337,1,Niagara,9,66052,Niagara_1
+Toronto,8,3,29,349,3,Cancun,9,30363,Cancun_3
+Vancouver,8,14,57,315,5,Paris,7,251370,Paris_5
+Vancouver,8,3,41,210,4,Cancun,7,25830,Cancun_4
+Vancouver,7,14,43,271,4,Paris,10,163142,Paris_4
+Vancouver,9,14,21,309,4,Cancun,4,90846,Cancun_4
+San Francisco,9,14,62,406,3,Cancun,9,352408,Cancun_3
+Vancouver,9,3,42,272,2,Paris,7,34272,Paris_2
+Vancouver,3,20,58,295,5,Niagara,7,342200,Niagara_5
+Toronto,8,3,56,263,3,Cancun,6,44184,Cancun_3
+Vancouver,5,7,53,223,3,Niagara,8,82733,Niagara_3
+New York,7,5,69,222,3,Cancun,7,76590,Cancun_3
+San Francisco,8,3,53,341,5,Paris,5,54219,Paris_5
+New York,8,13,73,348,3,Niagara,10,330252,Niagara_3
+Vancouver,9,7,44,243,5,Niagara,8,74844,Niagara_5
+New York,8,7,69,412,2,Cancun,10,198996,Cancun_2
+Toronto,9,14,53,207,2,Niagara,8,153594,Niagara_2
+San Francisco,5,7,43,205,5,Cancun,4,61705,Cancun_5
+Toronto,9,14,39,224,1,Paris,9,122304,Paris_1
+Vancouver,7,3,44,280,2,Niagara,9,36960,Niagara_2
+San Francisco,7,7,23,298,4,Paris,6,47978,Paris_4
+New York,10,14,79,223,4,Niagara,3,246638,Niagara_4
+San Francisco,9,3,49,234,4,Cancun,7,34398,Cancun_4
+Toronto,8,3,65,318,1,Cancun,7,62010,Cancun_1
+New York,8,7,57,284,1,Paris,7,113316,Paris_1
+Vancouver,7,14,42,201,3,Paris,8,118188,Paris_3
+Vancouver,7,7,46,298,3,Paris,5,95956,Paris_3
+San Francisco,9,14,54,258,5,Cancun,7,195048,Cancun_5
+Vancouver,7,14,28,314,3,Niagara,8,123088,Niagara_3
+Vancouver,8,14,31,248,2,Cancun,9,107632,Cancun_2
+New York,7,14,59,275,1,Paris,10,227150,Paris_1
+Vancouver,9,7,27,354,4,Paris,7,66906,Paris_4
+New York,7,14,55,306,3,Niagara,9,235620,Niagara_3
+San Francisco,7,7,24,246,2,Niagara,9,41328,Niagara_2
+New York,9,9,49,343,5,Paris,8,151263,Paris_5
+Vancouver,7,14,91,327,3,Niagara,9,416598,Niagara_3
+Vancouver,9,7,45,254,5,Niagara,8,80010,Niagara_5
+New York,9,7,71,364,1,Cancun,9,180908,Cancun_1
+New York,8,3,38,262,3,Cancun,8,29868,Cancun_3
+Toronto,7,14,33,252,3,Niagara,7,116424,Niagara_3
+Toronto,8,14,36,231,4,Cancun,6,116424,Cancun_4
+Vancouver,9,19,88,309,3,Paris,6,516648,Paris_3
+Toronto,9,9,86,259,2,Cancun,9,200466,Cancun_2
+Vancouver,12,7,47,330,2,Paris,7,108570,Paris_2
+Toronto,8,13,32,309,4,Niagara,9,128544,Niagara_4
+New York,7,14,77,326,3,Paris,10,351428,Paris_3
+San Francisco,5,3,46,266,2,Cancun,6,36708,Cancun_2
+Vancouver,8,7,41,290,3,Paris,8,83230,Paris_3
+New York,8,3,60,394,3,Niagara,10,70920,Niagara_3
+Vancouver,8,4,66,346,2,Niagara,9,91344,Niagara_2
+New York,7,7,45,295,4,Niagara,7,92925,Niagara_4
+Toronto,9,7,44,328,4,Niagara,8,101024,Niagara_4
+San Francisco,9,14,45,254,3,Cancun,8,160020,Cancun_3
+New York,9,15,73,233,2,Paris,10,255135,Paris_2
+Toronto,1,7,38,349,2,Paris,6,92834,Paris_2
+New York,9,10,43,237,2,Cancun,9,101910,Cancun_2
+New York,7,11,55,220,5,Niagara,8,133100,Niagara_5
+Vancouver,9,3,8,214,2,Niagara,8,5136,Niagara_2
+Vancouver,9,3,44,384,4,Niagara,7,50688,Niagara_4
+Vancouver,7,14,47,263,4,Cancun,5,173054,Cancun_4
+Toronto,7,3,80,381,4,Paris,8,91440,Paris_4
+Toronto,2,20,47,244,1,Cancun,5,229360,Cancun_1
+New York,9,7,66,278,2,Cancun,7,128436,Cancun_2
+Vancouver,11,3,26,239,5,Paris,6,18642,Paris_5
+San Francisco,8,3,75,418,3,Cancun,10,94050,Cancun_3
+Toronto,7,8,20,327,5,Paris,8,52320,Paris_5
+San Francisco,4,7,55,371,1,Paris,7,142835,Paris_1
+Toronto,9,4,24,240,5,Cancun,8,23040,Cancun_5
+Vancouver,12,3,70,371,3,Cancun,8,77910,Cancun_3
+New York,9,14,68,287,1,Niagara,9,273224,Niagara_1
+Vancouver,9,4,36,284,1,Paris,9,40896,Paris_1
+Toronto,8,20,47,427,5,Paris,8,401380,Paris_5
+San Francisco,7,10,51,289,5,Paris,8,147390,Paris_5
+San Francisco,9,3,53,203,4,Cancun,5,32277,Cancun_4
+Toronto,7,7,49,343,4,Niagara,9,117649,Niagara_4
+New York,9,7,29,352,2,Niagara,9,71456,Niagara_2
+Toronto,5,5,62,411,3,Niagara,5,127410,Niagara_3
+San Francisco,7,11,47,452,4,Paris,10,233684,Paris_4
+New York,7,12,50,310,5,Paris,10,186000,Paris_5
+Toronto,7,3,72,401,5,Niagara,10,86616,Niagara_5
+San Francisco,9,9,60,298,2,Niagara,10,160920,Niagara_2
+San Francisco,9,14,60,246,5,Niagara,6,206640,Niagara_5
+San Francisco,8,14,59,277,1,Paris,7,228802,Paris_1
+New York,9,3,41,372,4,Paris,8,45756,Paris_4
+Vancouver,8,7,56,405,3,Paris,8,158760,Paris_3
+San Francisco,9,14,38,289,3,Paris,8,153748,Paris_3
+New York,8,7,38,206,3,Cancun,7,54796,Cancun_3
+New York,3,5,22,359,2,Paris,6,39490,Paris_2
+New York,8,14,71,424,3,Paris,8,421456,Paris_3
+New York,9,14,73,332,5,Paris,5,339304,Paris_5
+Vancouver,9,14,53,246,3,Niagara,10,182532,Niagara_3
+Toronto,9,3,36,356,5,Niagara,8,38448,Niagara_5
+San Francisco,7,3,56,231,3,Cancun,9,38808,Cancun_3
+Toronto,7,7,54,314,3,Paris,8,118692,Paris_3
+San Francisco,7,7,43,230,4,Cancun,4,69230,Cancun_4
+Vancouver,9,7,63,311,1,Paris,9,137151,Paris_1
+San Francisco,8,3,45,249,4,Paris,8,33615,Paris_4
+San Francisco,9,14,61,324,3,Cancun,8,276696,Cancun_3
+Vancouver,9,7,38,304,3,Paris,8,80864,Paris_3
+San Francisco,8,3,55,302,3,Cancun,7,49830,Cancun_3
+San Francisco,9,14,36,236,1,Paris,9,118944,Paris_1
+New York,7,14,70,311,3,Niagara,8,304780,Niagara_3
+San Francisco,11,7,95,351,1,Cancun,6,233415,Cancun_1
+Toronto,9,7,48,382,3,Cancun,8,128352,Cancun_3
+San Francisco,8,14,65,361,3,Niagara,9,328510,Niagara_3
+San Francisco,8,7,60,290,2,Niagara,7,121800,Niagara_2
+Toronto,9,3,63,279,3,Cancun,8,52731,Cancun_3
+San Francisco,9,11,84,271,3,Paris,7,250404,Paris_3
+San Francisco,8,14,60,321,2,Paris,10,269640,Paris_2
+San Francisco,8,3,38,201,3,Paris,6,22914,Paris_3
+San Francisco,8,7,57,356,5,Cancun,6,142044,Cancun_5
+Toronto,8,5,59,334,2,Niagara,9,98530,Niagara_2
+New York,5,3,62,262,3,Cancun,3,48732,Cancun_3
+New York,7,14,44,297,2,Niagara,8,182952,Niagara_2
+San Francisco,2,7,34,219,4,Cancun,2,52122,Cancun_4
+San Francisco,8,14,74,462,3,Niagara,10,478632,Niagara_3
+Vancouver,9,3,53,219,4,Paris,7,34821,Paris_4
+San Francisco,9,11,29,209,1,Cancun,7,66671,Cancun_1
+San Francisco,9,7,57,255,5,Niagara,10,101745,Niagara_5
+New York,7,3,40,247,2,Paris,7,29640,Paris_2
+New York,7,14,43,231,3,Cancun,6,139062,Cancun_3
+New York,9,14,48,240,5,Paris,6,161280,Paris_5
+Vancouver,7,14,66,213,5,Cancun,9,196812,Cancun_5
+Toronto,4,7,45,328,4,Niagara,5,103320,Niagara_4
+San Francisco,7,14,51,290,5,Niagara,8,207060,Niagara_5
+Vancouver,9,16,53,296,2,Paris,4,251008,Paris_2
+New York,9,3,48,238,5,Paris,7,34272,Paris_5
+Toronto,8,3,64,243,2,Paris,9,46656,Paris_2
+Vancouver,7,7,34,292,1,Paris,10,69496,Paris_1
+New York,9,7,59,345,1,Niagara,4,142485,Niagara_1
+Toronto,8,3,73,248,1,Paris,8,54312,Paris_1
+Vancouver,7,18,67,246,5,Cancun,7,296676,Cancun_5
+Vancouver,9,17,59,398,2,Niagara,9,399194,Niagara_2
+New York,9,17,32,338,1,Paris,10,183872,Paris_1
+New York,8,15,45,370,5,Paris,6,249750,Paris_5
+Vancouver,7,14,58,380,1,Paris,8,308560,Paris_1
+San Francisco,7,7,38,337,3,Paris,7,89642,Paris_3
+Vancouver,7,7,31,243,4,Cancun,6,52731,Cancun_4
+San Francisco,9,3,49,387,4,Cancun,7,56889,Cancun_4
+San Francisco,5,16,58,430,5,Niagara,7,399040,Niagara_5
+Toronto,8,7,41,332,5,Cancun,8,95284,Cancun_5
+New York,9,3,78,226,2,Paris,10,52884,Paris_2
+San Francisco,7,6,57,220,5,Paris,7,75240,Paris_5
+San Francisco,8,7,52,204,3,Niagara,8,74256,Niagara_3
+New York,8,3,54,284,4,Paris,6,46008,Paris_4
+New York,5,3,50,323,3,Niagara,5,48450,Niagara_3
+San Francisco,8,20,79,223,1,Paris,9,352340,Paris_1
+Vancouver,7,7,28,282,4,Niagara,6,55272,Niagara_4
+San Francisco,8,3,50,416,4,Cancun,5,62400,Cancun_4
+Vancouver,7,3,35,311,2,Paris,6,32655,Paris_2
+Toronto,3,3,47,488,1,Cancun,7,68808,Cancun_1
+Vancouver,7,7,71,227,1,Cancun,7,112819,Cancun_1
+Vancouver,8,14,47,229,5,Cancun,10,150682,Cancun_5
+Toronto,1,5,60,321,2,Paris,5,96300,Paris_2
+Toronto,7,7,61,269,1,Niagara,7,114863,Niagara_1
+San Francisco,1,3,49,382,5,Cancun,5,56154,Cancun_5
+Toronto,7,4,48,244,5,Niagara,9,46848,Niagara_5
+Toronto,2,20,45,396,5,Cancun,5,356400,Cancun_5
+San Francisco,7,16,40,200,4,Cancun,7,128000,Cancun_4
+Vancouver,8,14,49,271,5,Cancun,6,185906,Cancun_5
+Vancouver,7,14,60,255,1,Paris,7,214200,Paris_1
+Toronto,8,14,63,226,2,Paris,7,199332,Paris_2
+New York,8,3,61,306,4,Niagara,7,55998,Niagara_4
+San Francisco,8,7,61,245,2,Paris,9,104615,Paris_2
+New York,2,19,51,411,1,Paris,5,398259,Paris_1
+New York,8,3,50,203,3,Niagara,7,30450,Niagara_3
+San Francisco,9,19,29,287,5,Niagara,7,158137,Niagara_5
+San Francisco,8,13,68,218,5,Niagara,7,192712,Niagara_5
+San Francisco,9,14,64,218,3,Paris,10,195328,Paris_3
+San Francisco,9,20,30,369,5,Cancun,10,221400,Cancun_5
+San Francisco,4,14,67,311,3,Niagara,6,291718,Niagara_3
+Vancouver,9,3,56,242,2,Paris,10,40656,Paris_2
+San Francisco,7,12,46,266,3,Niagara,9,146832,Niagara_3
+Vancouver,7,14,32,335,2,Niagara,7,150080,Niagara_2
+San Francisco,8,7,37,266,1,Cancun,8,68894,Cancun_1
+Vancouver,8,3,32,287,1,Niagara,6,27552,Niagara_1
+San Francisco,7,7,33,289,2,Paris,9,66759,Paris_2
+Vancouver,6,3,70,217,1,Niagara,5,45570,Niagara_1
+Vancouver,8,7,56,228,5,Paris,4,89376,Paris_5
+New York,7,3,28,331,3,Paris,6,27804,Paris_3
+San Francisco,7,5,43,275,5,Niagara,10,59125,Niagara_5
+San Francisco,9,14,47,530,2,Cancun,8,348740,Cancun_2
+New York,8,14,47,214,3,Cancun,7,140812,Cancun_3
+Vancouver,7,5,47,261,1,Cancun,7,61335,Cancun_1
+Toronto,8,3,51,329,2,Cancun,6,50337,Cancun_2
+San Francisco,8,14,58,528,2,Niagara,10,428736,Niagara_2
+New York,8,14,50,353,5,Niagara,7,247100,Niagara_5
+San Francisco,7,7,54,396,1,Paris,10,149688,Paris_1
+New York,7,7,43,401,1,Cancun,8,120701,Cancun_1
+San Francisco,8,15,41,200,2,Niagara,6,123000,Niagara_2
+Toronto,9,6,62,225,3,Niagara,6,83700,Niagara_3
+Vancouver,7,10,39,277,1,Niagara,8,108030,Niagara_1
+Toronto,9,7,81,316,3,Cancun,7,179172,Cancun_3
+Vancouver,9,14,39,261,4,Paris,5,142506,Paris_4
+Toronto,7,3,47,348,5,Paris,7,49068,Paris_5
+San Francisco,9,14,31,206,2,Paris,6,89404,Paris_2
+Toronto,10,3,56,216,5,Cancun,7,36288,Cancun_5
+New York,8,7,34,291,5,Cancun,10,69258,Cancun_5
+Vancouver,9,7,41,481,1,Niagara,6,138047,Niagara_1
+Toronto,2,3,53,403,4,Cancun,4,64077,Cancun_4
+Toronto,9,3,30,222,1,Niagara,3,19980,Niagara_1
+New York,9,7,61,242,5,Niagara,9,103334,Niagara_5
+Vancouver,9,7,22,288,5,Paris,7,44352,Paris_5
+New York,8,14,49,204,2,Niagara,6,139944,Niagara_2
+San Francisco,8,3,69,223,5,Niagara,10,46161,Niagara_5
+Toronto,9,14,75,218,2,Cancun,10,228900,Cancun_2
+Vancouver,8,14,26,288,1,Paris,5,104832,Paris_1
+San Francisco,8,3,40,264,2,Paris,9,31680,Paris_2
+New York,9,7,47,430,3,Niagara,9,141470,Niagara_3
+Vancouver,7,14,18,354,5,Niagara,10,89208,Niagara_5
+San Francisco,8,7,46,323,4,Cancun,9,104006,Cancun_4
+San Francisco,8,14,64,240,4,Niagara,8,215040,Niagara_4
+Vancouver,9,14,55,206,2,Paris,10,158620,Paris_2
+Toronto,7,8,48,263,1,Paris,8,100992,Paris_1
+Vancouver,7,7,24,228,3,Paris,5,38304,Paris_3
+New York,8,7,65,271,5,Niagara,7,123305,Niagara_5
+Vancouver,8,14,73,296,4,Cancun,5,302512,Cancun_4
+New York,10,14,47,290,2,Cancun,5,190820,Cancun_2
+Toronto,2,3,40,441,3,Cancun,9,52920,Cancun_3
+Toronto,9,3,39,237,5,Niagara,9,27729,Niagara_5
+Toronto,8,10,65,340,2,Cancun,10,221000,Cancun_2
+Vancouver,9,3,17,241,4,Niagara,5,12291,Niagara_4
+San Francisco,7,3,73,230,4,Paris,9,50370,Paris_4
+San Francisco,8,7,49,354,2,Cancun,9,121422,Cancun_2
+Toronto,8,14,6,358,2,Niagara,9,30072,Niagara_2
+Vancouver,9,7,7,354,2,Paris,7,17346,Paris_2
+Toronto,9,14,40,229,4,Niagara,6,128240,Niagara_4
+Vancouver,5,7,52,431,5,Paris,4,156884,Paris_5
+Vancouver,9,3,58,250,2,Paris,5,43500,Paris_2
+Toronto,9,3,40,451,5,Cancun,9,54120,Cancun_5
+San Francisco,7,13,59,365,1,Cancun,10,279955,Cancun_1
+New York,7,7,20,293,1,Niagara,6,41020,Niagara_1
+San Francisco,7,14,59,371,2,Niagara,8,306446,Niagara_2
+Toronto,8,7,57,428,3,Cancun,8,170772,Cancun_3
+Vancouver,9,7,53,215,3,Paris,8,79765,Paris_3
+Toronto,7,7,42,293,1,Niagara,7,86142,Niagara_1
+Toronto,6,7,48,261,1,Niagara,3,87696,Niagara_1
+San Francisco,7,7,49,268,5,Cancun,7,91924,Cancun_5
+New York,4,4,20,234,1,Cancun,5,18720,Cancun_1
+Toronto,8,14,60,202,3,Cancun,8,169680,Cancun_3
+San Francisco,8,7,41,232,2,Paris,10,66584,Paris_2
+Toronto,9,14,28,254,2,Paris,4,99568,Paris_2
+San Francisco,9,14,28,262,2,Niagara,9,102704,Niagara_2
+Vancouver,7,7,56,327,4,Niagara,10,128184,Niagara_4
+Vancouver,9,5,42,342,2,Paris,10,71820,Paris_2
+New York,2,7,34,216,5,Paris,4,51408,Paris_5
+Vancouver,9,7,43,266,5,Niagara,6,80066,Niagara_5
+New York,7,3,60,296,5,Paris,10,53280,Paris_5
+Vancouver,10,10,31,461,4,Cancun,6,142910,Cancun_4
+Vancouver,8,3,70,310,3,Cancun,9,65100,Cancun_3
+New York,6,7,51,265,5,Cancun,4,94605,Cancun_5
+New York,9,5,54,360,2,Cancun,10,97200,Cancun_2
+Vancouver,9,20,46,244,3,Paris,8,224480,Paris_3
+San Francisco,8,7,52,217,1,Cancun,9,78988,Cancun_1
+San Francisco,9,7,64,322,4,Cancun,7,144256,Cancun_4
+Vancouver,8,3,65,383,2,Paris,8,74685,Paris_2
+Vancouver,9,7,64,269,2,Cancun,8,120512,Cancun_2
+Toronto,9,3,56,234,5,Niagara,9,39312,Niagara_5
+San Francisco,12,14,46,308,1,Niagara,3,198352,Niagara_1
+Vancouver,7,7,47,275,1,Cancun,10,90475,Cancun_1
+Toronto,7,19,41,289,2,Cancun,9,225131,Cancun_2
+Vancouver,7,14,39,242,4,Cancun,4,132132,Cancun_4
+New York,8,14,54,328,3,Paris,5,247968,Paris_3
+San Francisco,9,14,40,258,2,Niagara,6,144480,Niagara_2
+New York,9,3,63,366,3,Paris,10,69174,Paris_3
+San Francisco,9,3,63,285,1,Paris,8,53865,Paris_1
+Vancouver,9,14,54,349,4,Cancun,9,263844,Cancun_4
+Vancouver,8,3,41,308,4,Cancun,8,37884,Cancun_4
+San Francisco,7,6,60,254,5,Paris,5,91440,Paris_5
+New York,8,14,32,322,3,Cancun,10,144256,Cancun_3
+Vancouver,9,14,67,265,4,Cancun,6,248570,Cancun_4
+Toronto,7,14,51,290,3,Paris,8,207060,Paris_3
+Toronto,3,7,87,272,5,Paris,5,165648,Paris_5
+Vancouver,5,7,46,282,2,Niagara,3,90804,Niagara_2
+San Francisco,9,3,27,218,2,Cancun,9,17658,Cancun_2
+Vancouver,9,3,25,255,5,Paris,5,19125,Paris_5
+San Francisco,7,17,58,286,3,Cancun,5,281996,Cancun_3
+Toronto,8,14,35,289,3,Paris,7,141610,Paris_3
+Vancouver,7,7,45,288,2,Paris,8,90720,Paris_2
+New York,7,14,30,295,1,Paris,9,123900,Paris_1
+New York,7,7,51,208,2,Niagara,5,74256,Niagara_2
+New York,9,3,69,201,5,Cancun,8,41607,Cancun_5
+New York,8,3,19,281,2,Cancun,7,16017,Cancun_2
+Vancouver,8,14,16,383,5,Paris,8,85792,Paris_5
+Vancouver,7,7,53,370,2,Cancun,8,137270,Cancun_2
+San Francisco,9,7,40,335,5,Cancun,9,93800,Cancun_5
+San Francisco,9,3,55,265,4,Niagara,9,43725,Niagara_4
+Vancouver,9,2,42,211,5,Cancun,7,17724,Cancun_5
+Vancouver,9,14,73,407,3,Paris,10,415954,Paris_3
+Vancouver,9,19,51,320,2,Paris,10,310080,Paris_2
+Vancouver,8,14,41,389,3,Cancun,9,223286,Cancun_3
+Vancouver,12,14,68,393,4,Niagara,7,374136,Niagara_4
+Toronto,9,7,56,357,2,Cancun,9,139944,Cancun_2
+New York,8,3,71,216,2,Cancun,8,46008,Cancun_2
+New York,9,7,47,447,3,Niagara,7,147063,Niagara_3
+San Francisco,9,8,55,327,1,Paris,7,143880,Paris_1
+San Francisco,11,3,41,377,3,Paris,6,46371,Paris_3
+Toronto,7,3,50,266,2,Cancun,7,39900,Cancun_2
+San Francisco,7,4,23,238,1,Paris,8,21896,Paris_1
+New York,9,14,58,237,3,Niagara,6,192444,Niagara_3
+Vancouver,9,14,30,251,2,Paris,7,105420,Paris_2
+San Francisco,9,7,62,201,2,Cancun,9,87234,Cancun_2
+San Francisco,7,3,63,344,1,Niagara,5,65016,Niagara_1
+Toronto,8,14,57,332,4,Cancun,7,264936,Cancun_4
+Vancouver,5,14,17,360,2,Niagara,5,85680,Niagara_2
+New York,8,7,59,268,5,Niagara,9,110684,Niagara_5
+San Francisco,7,3,58,232,1,Cancun,7,40368,Cancun_1
+Toronto,3,14,58,347,1,Cancun,4,281764,Cancun_1
+Vancouver,12,3,52,347,4,Paris,4,54132,Paris_4
+Vancouver,8,14,37,259,3,Paris,7,134162,Paris_3
+San Francisco,7,14,65,202,3,Paris,9,183820,Paris_3
+Toronto,7,3,75,307,1,Niagara,4,69075,Niagara_1
+Toronto,9,3,65,247,1,Niagara,5,48165,Niagara_1
+Vancouver,8,14,29,243,5,Cancun,8,98658,Cancun_5
+Vancouver,1,14,43,202,3,Cancun,4,121604,Cancun_3
+Toronto,8,14,63,307,4,Niagara,9,270774,Niagara_4
+San Francisco,7,14,24,279,3,Paris,10,93744,Paris_3
+San Francisco,8,14,20,233,3,Niagara,5,65240,Niagara_3
+San Francisco,7,3,63,286,2,Paris,5,54054,Paris_2
+Vancouver,4,15,52,304,1,Cancun,4,237120,Cancun_1
+San Francisco,7,7,71,241,2,Paris,6,119777,Paris_2
+Toronto,3,7,41,255,2,Niagara,5,73185,Niagara_2
+San Francisco,9,18,60,330,3,Paris,7,356400,Paris_3
+New York,7,14,60,243,1,Paris,9,204120,Paris_1
+Toronto,8,14,53,310,5,Cancun,10,230020,Cancun_5
+Toronto,7,3,35,264,4,Paris,6,27720,Paris_4
+Toronto,9,3,47,311,3,Niagara,7,43851,Niagara_3
+New York,8,3,54,339,4,Niagara,10,54918,Niagara_4
+Vancouver,3,14,55,247,3,Cancun,5,190190,Cancun_3
+Toronto,8,5,66,218,1,Paris,10,71940,Paris_1
+Vancouver,8,11,57,258,4,Paris,8,161766,Paris_4
+New York,9,20,49,284,2,Paris,9,278320,Paris_2
+San Francisco,3,14,45,340,3,Cancun,5,214200,Cancun_3
+San Francisco,9,7,49,410,4,Paris,7,140630,Paris_4
+San Francisco,11,14,45,343,3,Paris,8,216090,Paris_3
+Toronto,7,7,46,468,5,Paris,7,150696,Paris_5
+New York,6,14,57,293,1,Niagara,5,233814,Niagara_1
+Toronto,8,12,53,263,1,Niagara,6,167268,Niagara_1
+San Francisco,12,15,64,382,1,Niagara,4,366720,Niagara_1
+San Francisco,9,20,50,260,1,Cancun,9,260000,Cancun_1
+Vancouver,6,3,81,362,1,Cancun,3,87966,Cancun_1
+Toronto,10,7,63,395,2,Paris,7,174195,Paris_2
+New York,8,7,77,278,3,Paris,5,149842,Paris_3
+San Francisco,11,3,64,203,3,Paris,4,38976,Paris_3
+Vancouver,7,3,74,297,3,Paris,10,65934,Paris_3
+Vancouver,7,14,59,227,3,Niagara,10,187502,Niagara_3
+Toronto,2,3,65,289,4,Niagara,4,56355,Niagara_4
+Vancouver,9,7,78,276,5,Paris,4,150696,Paris_5
+Vancouver,3,7,40,296,3,Paris,5,82880,Paris_3
+New York,9,7,28,356,1,Paris,7,69776,Paris_1
+Toronto,5,14,63,230,5,Paris,3,202860,Paris_5
+Vancouver,9,18,41,265,2,Niagara,8,195570,Niagara_2
+San Francisco,5,14,50,344,3,Paris,7,240800,Paris_3
+New York,7,14,38,222,1,Niagara,6,118104,Niagara_1
+Vancouver,9,14,28,282,4,Cancun,6,110544,Cancun_4
+San Francisco,8,3,42,248,5,Cancun,8,31248,Cancun_5
+Vancouver,8,3,73,325,2,Niagara,10,71175,Niagara_2
+San Francisco,3,10,37,264,4,Niagara,3,97680,Niagara_4
+Toronto,7,14,67,243,4,Niagara,9,227934,Niagara_4
+New York,9,16,71,216,5,Paris,5,245376,Paris_5
+Vancouver,9,7,54,262,1,Paris,9,99036,Paris_1
+Vancouver,9,3,39,290,1,Paris,9,33930,Paris_1
+San Francisco,7,5,62,269,4,Niagara,8,83390,Niagara_4
+Vancouver,7,18,23,304,5,Cancun,10,125856,Cancun_5
+San Francisco,5,15,42,301,4,Cancun,3,189630,Cancun_4
+Vancouver,7,7,46,383,3,Cancun,7,123326,Cancun_3
+New York,8,14,56,210,4,Cancun,5,164640,Cancun_4
+Vancouver,7,14,36,366,4,Paris,9,184464,Paris_4
+New York,8,7,79,380,5,Paris,6,210140,Paris_5
+New York,7,7,63,256,3,Cancun,7,112896,Cancun_3
+Toronto,9,14,62,305,1,Niagara,8,264740,Niagara_1
+Vancouver,2,3,49,267,5,Niagara,6,39249,Niagara_5
+San Francisco,7,7,53,200,2,Paris,6,74200,Paris_2
+Vancouver,8,15,62,258,3,Niagara,6,239940,Niagara_3
+New York,11,7,54,433,5,Niagara,7,163674,Niagara_5
+Vancouver,8,7,46,271,5,Niagara,10,87262,Niagara_5
+San Francisco,5,7,36,285,2,Paris,4,71820,Paris_2
+San Francisco,1,7,65,229,5,Niagara,5,104195,Niagara_5
+San Francisco,9,7,39,280,1,Niagara,9,76440,Niagara_1
+San Francisco,7,3,60,347,1,Cancun,9,62460,Cancun_1
+Toronto,7,7,26,273,5,Niagara,7,49686,Niagara_5
+Vancouver,9,2,64,320,3,Cancun,9,40960,Cancun_3
+Vancouver,8,3,45,232,5,Cancun,6,31320,Cancun_5
+Vancouver,1,3,39,407,1,Niagara,5,47619,Niagara_1
+New York,9,14,9,271,1,Niagara,9,34146,Niagara_1
+Toronto,7,3,54,212,4,Cancun,4,34344,Cancun_4
+Toronto,9,1,38,256,1,Paris,10,9728,Paris_1
+San Francisco,6,3,59,281,2,Cancun,7,49737,Cancun_2
+Toronto,8,14,49,283,4,Cancun,5,194138,Cancun_4
+Vancouver,7,7,26,421,4,Niagara,10,76622,Niagara_4
+San Francisco,7,7,39,245,2,Niagara,7,66885,Niagara_2
+Vancouver,9,6,69,229,3,Cancun,8,94806,Cancun_3
+Toronto,9,7,55,254,5,Niagara,8,97790,Niagara_5
+San Francisco,8,14,54,232,2,Paris,9,175392,Paris_2
+San Francisco,7,3,26,388,1,Cancun,7,30264,Cancun_1
+Toronto,9,7,54,234,3,Cancun,8,88452,Cancun_3
+San Francisco,8,14,70,435,1,Niagara,9,426300,Niagara_1
+Toronto,7,3,14,316,1,Paris,7,13272,Paris_1
+San Francisco,8,2,29,270,3,Niagara,9,15660,Niagara_3
+San Francisco,7,11,57,314,4,Cancun,5,196878,Cancun_4
+Toronto,2,7,35,220,3,Paris,5,53900,Paris_3
+New York,9,7,65,236,4,Niagara,8,107380,Niagara_4
+New York,8,3,36,282,1,Paris,7,30456,Paris_1
+Vancouver,8,19,64,346,2,Cancun,10,420736,Cancun_2
+New York,8,14,58,210,3,Paris,4,170520,Paris_3
+New York,8,14,60,303,3,Paris,10,254520,Paris_3
+San Francisco,9,3,35,259,5,Cancun,10,27195,Cancun_5
+Toronto,8,3,44,263,5,Cancun,5,34716,Cancun_5
+San Francisco,9,7,36,220,3,Niagara,9,55440,Niagara_3
+Vancouver,9,14,45,277,5,Paris,5,174510,Paris_5
+New York,11,3,46,303,4,Niagara,6,41814,Niagara_4
+New York,8,3,28,354,2,Cancun,9,29736,Cancun_2
+Toronto,8,7,39,468,5,Paris,5,127764,Paris_5
+Toronto,2,3,45,482,1,Cancun,6,65070,Cancun_1
+San Francisco,8,14,40,229,1,Paris,10,128240,Paris_1
+Vancouver,9,3,35,277,2,Niagara,7,29085,Niagara_2
+Toronto,8,7,55,448,4,Paris,8,172480,Paris_4
+Toronto,8,3,46,230,3,Paris,7,31740,Paris_3
+New York,11,14,40,363,5,Paris,4,203280,Paris_5
+New York,7,7,79,407,5,Niagara,10,225071,Niagara_5
+San Francisco,1,14,72,345,3,Paris,7,347760,Paris_3
+New York,9,6,37,280,1,Paris,8,62160,Paris_1
+New York,7,15,59,327,3,Niagara,8,289395,Niagara_3
+Vancouver,9,7,69,205,4,Niagara,8,99015,Niagara_4
+Vancouver,8,7,58,218,5,Niagara,7,88508,Niagara_5
+San Francisco,9,7,43,239,5,Paris,6,71939,Paris_5
+Toronto,7,14,53,267,4,Cancun,6,198114,Cancun_4
+Toronto,7,3,45,362,1,Niagara,6,48870,Niagara_1
+Toronto,9,14,49,215,3,Niagara,7,147490,Niagara_3
+Toronto,9,14,70,350,5,Paris,7,343000,Paris_5
+San Francisco,7,14,52,242,2,Cancun,10,176176,Cancun_2
+Toronto,8,14,70,331,3,Cancun,7,324380,Cancun_3
+Toronto,8,7,49,392,4,Cancun,8,134456,Cancun_4
+Toronto,5,3,61,288,4,Paris,5,52704,Paris_4
+Toronto,9,7,68,206,4,Niagara,6,98056,Niagara_4
+Toronto,8,14,57,325,4,Cancun,6,259350,Cancun_4
+Toronto,7,7,40,285,5,Niagara,9,79800,Niagara_5
+New York,8,2,52,467,1,Cancun,9,48568,Cancun_1
+Toronto,7,14,29,240,3,Niagara,10,97440,Niagara_3
+Toronto,7,17,42,254,2,Paris,7,181356,Paris_2
+Toronto,8,13,59,216,2,Niagara,6,165672,Niagara_2
+Vancouver,8,9,40,440,5,Cancun,9,158400,Cancun_5
+Vancouver,7,19,57,346,1,Niagara,8,374718,Niagara_1
+San Francisco,8,3,48,205,4,Cancun,5,29520,Cancun_4
+Vancouver,9,3,63,371,3,Niagara,8,70119,Niagara_3
+Toronto,7,3,31,234,3,Niagara,6,21762,Niagara_3
+San Francisco,9,14,47,256,3,Paris,8,168448,Paris_3
+San Francisco,8,11,48,401,2,Niagara,8,211728,Niagara_2
+Vancouver,9,17,41,201,2,Cancun,5,140097,Cancun_2
+Vancouver,9,14,57,310,2,Paris,10,247380,Paris_2
+Toronto,8,7,14,401,5,Paris,7,39298,Paris_5
+New York,9,3,66,356,3,Paris,7,70488,Paris_3
+Vancouver,7,3,67,420,2,Paris,10,84420,Paris_2
+Toronto,7,9,76,211,2,Paris,10,144324,Paris_2
+San Francisco,8,7,61,302,4,Cancun,6,128954,Cancun_4
+San Francisco,11,14,45,248,3,Paris,7,156240,Paris_3
+Toronto,7,3,13,435,2,Paris,9,16965,Paris_2
+Vancouver,4,3,56,416,1,Niagara,5,69888,Niagara_1
+Vancouver,8,7,66,323,1,Paris,10,149226,Paris_1
+San Francisco,7,3,79,254,4,Paris,7,60198,Paris_4
+San Francisco,5,7,33,292,1,Niagara,4,67452,Niagara_1
+San Francisco,9,19,52,345,3,Niagara,10,340860,Niagara_3
+Toronto,7,8,40,221,5,Paris,9,70720,Paris_5
+Vancouver,9,7,63,242,4,Paris,7,106722,Paris_4
+Vancouver,7,3,66,218,2,Niagara,7,43164,Niagara_2
+New York,8,14,41,200,2,Paris,10,114800,Paris_2
+San Francisco,7,10,41,304,2,Niagara,8,124640,Niagara_2
+San Francisco,11,3,33,202,5,Cancun,4,19998,Cancun_5
+New York,6,3,54,260,3,Cancun,7,42120,Cancun_3
+San Francisco,8,14,38,278,3,Cancun,9,147896,Cancun_3
+New York,7,7,36,320,2,Cancun,9,80640,Cancun_2
+Toronto,6,3,59,272,2,Niagara,5,48144,Niagara_2
+Toronto,8,9,42,298,4,Cancun,10,112644,Cancun_4
+New York,9,14,28,278,2,Paris,8,108976,Paris_2
+New York,7,4,51,263,3,Cancun,6,53652,Cancun_3
+San Francisco,12,16,48,257,1,Paris,5,197376,Paris_1
+Vancouver,8,7,43,305,2,Paris,8,91805,Paris_2
+Toronto,8,1,69,337,2,Cancun,10,23253,Cancun_2
+San Francisco,9,3,34,284,1,Cancun,6,28968,Cancun_1
+New York,9,14,51,294,2,Niagara,8,209916,Niagara_2
+Toronto,8,14,65,443,5,Niagara,9,403130,Niagara_5
+San Francisco,8,7,44,284,4,Cancun,8,87472,Cancun_4
+San Francisco,9,6,12,207,2,Niagara,8,14904,Niagara_2
+New York,7,13,28,279,1,Niagara,5,101556,Niagara_1
+Vancouver,9,3,64,273,2,Niagara,9,52416,Niagara_2
+San Francisco,7,7,52,369,5,Niagara,6,134316,Niagara_5
+San Francisco,8,7,45,307,1,Paris,9,96705,Paris_1
+San Francisco,7,14,67,221,2,Cancun,8,207298,Cancun_2
+Toronto,11,3,31,251,2,Cancun,5,23343,Cancun_2
+Vancouver,7,12,25,348,2,Paris,6,104400,Paris_2
+New York,7,14,62,300,2,Niagara,7,260400,Niagara_2
+New York,8,7,48,343,4,Cancun,8,115248,Cancun_4
+Toronto,5,14,47,297,4,Cancun,4,195426,Cancun_4
+Vancouver,8,3,58,388,3,Cancun,7,67512,Cancun_3
+Toronto,8,14,30,214,1,Niagara,8,89880,Niagara_1
+San Francisco,9,3,31,221,1,Niagara,6,20553,Niagara_1
+San Francisco,8,4,40,246,2,Cancun,9,39360,Cancun_2
+Vancouver,7,9,76,368,5,Paris,4,251712,Paris_5
+Toronto,8,7,52,281,2,Niagara,10,102284,Niagara_2
+San Francisco,8,3,59,292,4,Cancun,4,51684,Cancun_4
+San Francisco,8,3,60,303,2,Niagara,10,54540,Niagara_2
+San Francisco,9,20,55,319,3,Niagara,6,350900,Niagara_3
+San Francisco,9,14,48,350,4,Cancun,5,235200,Cancun_4
+San Francisco,7,3,58,324,5,Cancun,9,56376,Cancun_5
+San Francisco,7,1,42,232,4,Niagara,7,9744,Niagara_4
+Toronto,3,11,66,212,1,Cancun,5,153912,Cancun_1
+Toronto,8,7,61,379,2,Niagara,10,161833,Niagara_2
+San Francisco,8,4,55,307,1,Niagara,6,67540,Niagara_1
+New York,8,7,15,228,3,Niagara,8,23940,Niagara_3
+New York,8,7,32,318,4,Paris,10,71232,Paris_4
+Vancouver,7,14,62,331,4,Cancun,9,287308,Cancun_4
+Vancouver,8,3,50,295,1,Niagara,5,44250,Niagara_1
+Toronto,8,14,27,432,4,Cancun,7,163296,Cancun_4
+New York,8,7,28,393,1,Paris,8,77028,Paris_1
+Vancouver,6,14,34,237,3,Paris,4,112812,Paris_3
+Vancouver,9,1,36,321,4,Paris,7,11556,Paris_4
+San Francisco,7,7,59,284,5,Niagara,7,117292,Niagara_5
+San Francisco,9,12,54,334,2,Niagara,7,216432,Niagara_2
+San Francisco,7,3,33,353,3,Niagara,8,34947,Niagara_3
+Toronto,7,7,73,220,3,Cancun,8,112420,Cancun_3
+Toronto,2,1,40,421,1,Paris,7,16840,Paris_1
+Vancouver,9,7,63,348,4,Cancun,6,153468,Cancun_4
+Vancouver,8,13,48,356,2,Cancun,8,222144,Cancun_2
+New York,9,7,51,283,5,Cancun,5,101031,Cancun_5
+New York,9,14,63,234,3,Cancun,7,206388,Cancun_3
+San Francisco,8,8,47,444,2,Paris,8,166944,Paris_2
+New York,3,14,38,219,4,Paris,7,116508,Paris_4
+Vancouver,8,3,67,457,3,Cancun,9,91857,Cancun_3
+Vancouver,9,8,37,216,4,Cancun,6,63936,Cancun_4
+New York,8,3,38,269,2,Paris,8,30666,Paris_2
+Toronto,9,3,46,242,5,Niagara,10,33396,Niagara_5
+New York,9,7,81,233,1,Cancun,7,132111,Cancun_1
+Vancouver,2,3,25,260,3,Niagara,8,19500,Niagara_3
+Toronto,7,7,58,317,4,Niagara,8,128702,Niagara_4
+New York,7,3,39,317,3,Paris,7,37089,Paris_3
+San Francisco,8,20,55,303,4,Cancun,7,333300,Cancun_4
+Vancouver,7,14,56,304,1,Paris,6,238336,Paris_1
+San Francisco,7,7,47,260,3,Paris,6,85540,Paris_3
+San Francisco,9,1,82,433,1,Cancun,10,35506,Cancun_1
+Vancouver,7,7,60,313,1,Niagara,7,131460,Niagara_1
+San Francisco,7,4,67,259,1,Cancun,8,69412,Cancun_1
+New York,11,14,46,213,5,Cancun,4,137172,Cancun_5
+Vancouver,11,8,43,415,4,Paris,6,142760,Paris_4
+New York,9,20,53,230,2,Niagara,8,243800,Niagara_2
+Toronto,8,14,52,296,5,Cancun,7,215488,Cancun_5
+New York,7,7,58,321,2,Niagara,9,130326,Niagara_2
+Toronto,9,14,40,325,5,Cancun,9,182000,Cancun_5
+Toronto,7,3,32,370,5,Paris,5,35520,Paris_5
+New York,9,7,44,387,2,Niagara,9,119196,Niagara_2
+Toronto,9,14,59,252,3,Paris,7,208152,Paris_3
+Vancouver,7,3,48,426,3,Niagara,10,61344,Niagara_3
+New York,9,7,74,302,4,Paris,10,156436,Paris_4
+Vancouver,9,4,29,321,5,Cancun,8,37236,Cancun_5
+New York,8,15,29,215,3,Cancun,6,93525,Cancun_3
+Vancouver,7,6,71,270,3,Niagara,7,115020,Niagara_3
+New York,5,14,38,331,1,Paris,6,176092,Paris_1
+Toronto,8,7,52,380,5,Cancun,10,138320,Cancun_5
+San Francisco,9,20,27,231,3,Paris,9,124740,Paris_3
+New York,3,14,28,245,4,Niagara,5,96040,Niagara_4
+Vancouver,9,3,52,278,3,Paris,6,43368,Paris_3
+Vancouver,10,14,49,315,5,Cancun,6,216090,Cancun_5
+Toronto,9,3,39,343,2,Niagara,9,40131,Niagara_2
+Vancouver,8,14,47,300,2,Niagara,9,197400,Niagara_2
+Vancouver,8,3,70,337,1,Paris,10,70770,Paris_1
+San Francisco,9,14,57,299,5,Paris,7,238602,Paris_5
+San Francisco,7,7,44,345,3,Paris,6,106260,Paris_3
+San Francisco,9,12,52,364,4,Cancun,6,227136,Cancun_4
+San Francisco,7,3,53,208,4,Paris,7,33072,Paris_4
+Vancouver,3,3,49,214,1,Cancun,9,31458,Cancun_1
+Toronto,8,3,72,222,5,Cancun,8,47952,Cancun_5
+Vancouver,9,7,66,294,2,Paris,10,135828,Paris_2
+Toronto,8,14,57,291,1,Cancun,9,232218,Cancun_1
+Vancouver,7,18,66,276,1,Paris,10,327888,Paris_1
+Vancouver,9,7,67,452,1,Cancun,10,211988,Cancun_1
+Vancouver,7,7,29,286,3,Cancun,7,58058,Cancun_3
+Vancouver,9,7,39,231,3,Paris,8,63063,Paris_3
+Toronto,8,7,66,252,2,Cancun,10,116424,Cancun_2
+Toronto,8,5,19,317,5,Cancun,9,30115,Cancun_5
+Toronto,7,14,44,240,3,Niagara,10,147840,Niagara_3
+Toronto,9,7,33,336,1,Niagara,6,77616,Niagara_1
+San Francisco,9,7,34,348,5,Niagara,7,82824,Niagara_5
+Toronto,9,3,13,275,1,Paris,9,10725,Paris_1
+Vancouver,9,7,25,304,4,Niagara,9,53200,Niagara_4
+San Francisco,8,19,17,282,2,Cancun,10,91086,Cancun_2
+San Francisco,8,5,23,365,1,Paris,9,41975,Paris_1
+New York,7,14,48,258,1,Cancun,7,173376,Cancun_1
+Toronto,9,14,78,226,2,Paris,9,246792,Paris_2
+San Francisco,7,3,40,323,3,Niagara,7,38760,Niagara_3
+New York,7,14,46,282,3,Cancun,8,181608,Cancun_3
+San Francisco,7,7,49,232,1,Paris,10,79576,Paris_1
+New York,8,7,18,314,2,Cancun,10,39564,Cancun_2
+San Francisco,11,3,41,384,2,Niagara,6,47232,Niagara_2
+New York,9,7,40,207,1,Cancun,8,57960,Cancun_1
+Vancouver,7,7,36,219,5,Cancun,9,55188,Cancun_5
+San Francisco,11,3,47,238,2,Cancun,6,33558,Cancun_2
+New York,2,20,60,230,1,Paris,5,276000,Paris_1
+Vancouver,9,17,70,352,3,Cancun,8,418880,Cancun_3
+San Francisco,7,16,11,368,4,Cancun,9,64768,Cancun_4
+New York,9,3,60,273,3,Paris,10,49140,Paris_3
+Toronto,9,11,63,294,2,Paris,8,203742,Paris_2
+New York,7,7,34,229,3,Paris,9,54502,Paris_3
+Vancouver,8,18,34,226,3,Niagara,8,138312,Niagara_3
+Vancouver,4,14,52,260,4,Cancun,3,189280,Cancun_4
+Toronto,8,5,40,229,2,Niagara,7,45800,Niagara_2
+San Francisco,9,2,67,285,3,Paris,9,38190,Paris_3
+San Francisco,7,14,67,356,4,Paris,10,333928,Paris_4
+New York,8,7,45,214,3,Cancun,7,67410,Cancun_3
+Vancouver,8,14,43,221,4,Niagara,10,133042,Niagara_4
+Toronto,12,7,44,393,1,Cancun,7,121044,Cancun_1
+New York,9,14,50,334,5,Paris,6,233800,Paris_5
+Toronto,7,14,62,258,5,Niagara,7,223944,Niagara_5
+Vancouver,6,4,71,288,5,Cancun,4,81792,Cancun_5
+Vancouver,9,14,47,229,3,Cancun,7,150682,Cancun_3
+Vancouver,12,14,49,396,4,Cancun,5,271656,Cancun_4
+New York,8,3,74,334,5,Cancun,5,74148,Cancun_5
+San Francisco,7,20,71,220,5,Paris,6,312400,Paris_5
+Vancouver,9,7,51,329,2,Paris,10,117453,Paris_2
+New York,7,7,24,308,5,Cancun,8,51744,Cancun_5
+Toronto,8,14,88,209,5,Niagara,10,257488,Niagara_5
+San Francisco,9,4,63,283,5,Cancun,7,71316,Cancun_5
+New York,8,7,42,269,2,Niagara,8,79086,Niagara_2
+Toronto,7,7,47,263,4,Niagara,9,86527,Niagara_4
+Vancouver,7,3,60,271,4,Paris,6,48780,Paris_4
+Vancouver,9,17,56,208,5,Cancun,9,198016,Cancun_5
+San Francisco,5,14,45,294,5,Cancun,4,185220,Cancun_5
+Vancouver,7,3,57,219,5,Niagara,8,37449,Niagara_5
+Toronto,9,7,29,307,5,Paris,7,62321,Paris_5
+Vancouver,9,7,54,392,5,Niagara,7,148176,Niagara_5
+San Francisco,8,14,41,385,4,Cancun,10,220990,Cancun_4
+Toronto,8,7,67,237,3,Niagara,8,111153,Niagara_3
+New York,8,14,52,359,5,Niagara,9,261352,Niagara_5
+New York,8,7,28,315,1,Paris,10,61740,Paris_1
+San Francisco,11,6,77,375,4,Paris,6,173250,Paris_4
+San Francisco,7,3,67,262,5,Paris,7,52662,Paris_5
+New York,7,14,68,424,4,Cancun,6,403648,Cancun_4
+Vancouver,7,14,71,385,1,Cancun,5,382690,Cancun_1
+Vancouver,7,9,42,256,2,Cancun,7,96768,Cancun_2
+Toronto,7,3,55,233,1,Cancun,6,38445,Cancun_1
+Toronto,7,3,33,262,5,Paris,3,25938,Paris_5
+Vancouver,1,19,37,223,4,Paris,5,156769,Paris_4
+Vancouver,2,7,56,299,3,Cancun,6,117208,Cancun_3
+Vancouver,7,3,29,243,1,Cancun,7,21141,Cancun_1
+San Francisco,9,3,44,284,1,Paris,10,37488,Paris_1
+New York,7,14,61,253,1,Niagara,3,216062,Niagara_1
+Vancouver,8,3,56,237,2,Paris,7,39816,Paris_2
+New York,6,7,37,395,3,Paris,7,102305,Paris_3
+Toronto,5,5,44,276,4,Niagara,5,60720,Niagara_4
+San Francisco,8,14,44,267,4,Cancun,7,164472,Cancun_4
+San Francisco,11,11,35,252,3,Niagara,5,97020,Niagara_3
+Toronto,7,3,65,301,3,Cancun,7,58695,Cancun_3
+Vancouver,7,2,54,376,1,Cancun,6,40608,Cancun_1
+San Francisco,8,3,39,266,5,Cancun,7,31122,Cancun_5
+San Francisco,10,15,62,287,4,Cancun,3,266910,Cancun_4
+New York,9,14,52,356,5,Paris,5,259168,Paris_5
+Toronto,8,14,40,225,4,Cancun,6,126000,Cancun_4
+Vancouver,6,7,76,295,4,Niagara,6,156940,Niagara_4
+San Francisco,7,3,42,282,1,Niagara,6,35532,Niagara_1
+Vancouver,9,14,45,281,2,Paris,8,177030,Paris_2
+San Francisco,7,7,60,284,2,Cancun,10,119280,Cancun_2
+Vancouver,7,14,43,228,5,Cancun,6,137256,Cancun_5
+New York,7,14,51,205,2,Cancun,10,146370,Cancun_2
+San Francisco,7,14,58,266,4,Niagara,7,215992,Niagara_4
+San Francisco,9,9,49,262,4,Cancun,7,115542,Cancun_4
+Toronto,7,7,57,315,3,Niagara,7,125685,Niagara_3
+Toronto,7,14,70,255,3,Niagara,9,249900,Niagara_3
+Toronto,1,3,61,354,4,Cancun,5,64782,Cancun_4
+New York,4,7,37,338,4,Niagara,4,87542,Niagara_4
+Toronto,10,14,67,288,5,Niagara,7,270144,Niagara_5
+New York,9,9,79,200,5,Paris,6,142200,Paris_5
+San Francisco,3,14,40,363,2,Paris,6,203280,Paris_2
+San Francisco,8,3,54,212,4,Niagara,8,34344,Niagara_4
+New York,8,7,50,453,2,Niagara,6,158550,Niagara_2
+San Francisco,7,3,33,215,1,Niagara,5,21285,Niagara_1
+New York,7,14,39,315,1,Cancun,9,171990,Cancun_1
+New York,12,14,41,351,3,Paris,5,201474,Paris_3
+Toronto,8,3,30,258,2,Paris,8,23220,Paris_2
+San Francisco,7,15,66,246,4,Paris,7,243540,Paris_4
+San Francisco,9,3,60,373,5,Paris,7,67140,Paris_5
+New York,7,7,52,372,3,Cancun,7,135408,Cancun_3
+Toronto,9,7,65,226,5,Niagara,9,102830,Niagara_5
+Toronto,8,3,53,319,3,Niagara,8,50721,Niagara_3
+San Francisco,5,18,32,223,5,Niagara,8,128448,Niagara_5
+San Francisco,9,16,42,316,2,Niagara,8,212352,Niagara_2
+Vancouver,7,17,65,412,2,Cancun,10,455260,Cancun_2
+Toronto,7,3,56,292,3,Niagara,10,49056,Niagara_3
+San Francisco,4,7,36,242,2,Paris,6,60984,Paris_2
+Toronto,8,5,48,362,3,Cancun,10,86880,Cancun_3
+New York,7,3,40,269,5,Paris,7,32280,Paris_5
+Vancouver,9,3,71,350,3,Niagara,7,74550,Niagara_3
+San Francisco,8,3,22,348,3,Niagara,9,22968,Niagara_3
+San Francisco,7,3,55,237,1,Niagara,8,39105,Niagara_1
+Toronto,8,14,56,267,3,Paris,6,209328,Paris_3
+San Francisco,8,14,66,344,1,Cancun,8,317856,Cancun_1
+New York,7,1,76,213,4,Niagara,7,16188,Niagara_4
+Toronto,7,14,39,207,2,Cancun,7,113022,Cancun_2
+Vancouver,9,13,46,356,2,Paris,7,212888,Paris_2
+San Francisco,1,7,58,292,3,Niagara,6,118552,Niagara_3
+New York,2,3,65,254,4,Niagara,7,49530,Niagara_4
+New York,6,7,42,270,3,Paris,7,79380,Paris_3
+San Francisco,4,3,51,288,2,Paris,5,44064,Paris_2
+New York,8,6,36,369,2,Cancun,10,79704,Cancun_2
+San Francisco,7,3,14,272,5,Paris,8,11424,Paris_5
+New York,8,3,40,258,3,Niagara,9,30960,Niagara_3
+New York,8,3,39,254,1,Paris,10,29718,Paris_1
+Vancouver,7,7,57,321,4,Niagara,10,128079,Niagara_4
+Toronto,7,13,36,345,2,Cancun,10,161460,Cancun_2
+Vancouver,6,7,56,317,5,Paris,2,124264,Paris_5
+San Francisco,9,14,59,369,3,Niagara,9,304794,Niagara_3
+Toronto,7,3,82,426,2,Cancun,8,104796,Cancun_2
+Vancouver,8,14,31,200,1,Paris,6,86800,Paris_1
+New York,7,13,32,285,5,Paris,8,118560,Paris_5
+Toronto,9,14,58,353,1,Paris,8,286636,Paris_1
+New York,8,13,43,226,4,Niagara,9,126334,Niagara_4
